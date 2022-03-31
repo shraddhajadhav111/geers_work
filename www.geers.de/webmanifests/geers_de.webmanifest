@@ -1,0 +1,47 @@
+{
+  "short_name": "GEERS",
+  "name": "GEERS Hörgeräte",
+  "description": "Moderne Hörgeräte vom Experten zum besten Preis – auch zum Nulltarif. Kompetente Beratung in über 650 Fachgeschäften beim Experten für Ihre Hörlösung.",
+  "lang": "de-DE",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#63b02f",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://sonova-retail-media-prd.azureedge.net/media/ml/sonova.geers-de/images/icons/android-chrome-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sonova-retail-media-prd.azureedge.net/media/ml/sonova.geers-de/images/icons/android-chrome-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sonova-retail-media-prd.azureedge.net/media/ml/sonova.geers-de/images/icons/android-chrome-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sonova-retail-media-prd.azureedge.net/media/ml/sonova.geers-de/images/icons/android-chrome-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sonova-retail-media-prd.azureedge.net/media/ml/sonova.geers-de/images/icons/android-chrome-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sonova-retail-media-prd.azureedge.net/media/ml/sonova.geers-de/images/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sonova-retail-media-prd.azureedge.net/media/ml/sonova.geers-de/images/icons/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}

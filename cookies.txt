@@ -1,0 +1,28 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.geers.de	TRUE	/	FALSE	1999999999	CMSCsrfCookie	nFo8Jp27A2TRFgo63KNk+NiP4XBQahg3FNF9C+oN
+www.geers.de	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	cqkkknpjivhvtmeb2t2pga05
+www.geers.de	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.geers.de	TRUE	/	FALSE	1999999999	CMSCurrentTheme	GruenerHeader
+tags.srv.stackadapt.com	TRUE	/	FALSE	1999999999	sa-user-id	s%3A0-edf79623-e0fe-4747-540c-8d04b1ac5960.SVsmLoV%2Fpm%2BtQKYguq2IoIPoxogayJqn9VJPeDczXto
+srv.stackadapt.com	TRUE	/	FALSE	1999999999	sa-user-id-v2	s%3A7feWI-D-R0dUDI0EsaxZYGd8j2c.7qTRr8SqPmDSxk5x2S2fG5V5q0s7Rv1NF5LhUAOy1t0
+tags.srv.stackadapt.com	TRUE	/	FALSE	1999999999	SameSite	None
+bat.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+bat.bing.com	TRUE	/	FALSE	1999999999	MR	0
+bat.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+rlcdn.com	TRUE	/	FALSE	1999999999	rlas3	wK9X/Z3K1Chzrt+4m4mutOev9aUVI11yX2IRyHsBWYs=
+rlcdn.com	TRUE	/	FALSE	1999999999	pxrc	CAA=
+idsync.rlcdn.com	TRUE	/	FALSE	1999999999	SameSite	None
+.bing.com	TRUE	/	FALSE	1999999999	MUID	2E416071D9FF60511B0A7109D864613E
+c.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+c.bing.com	TRUE	/	FALSE	1999999999	MR	0
+c.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+t23.intelliad.de	TRUE	/	FALSE	1999999999	iact	0001E196925FF92E32774CE07854124033A2
+.standorte.geers.de	TRUE	/	FALSE	1999999999	__cf_bm	bB2h01b22mQDGXYkoUebFs0OLNI9KH16D_w_l3l8nqo-1648748265-0-AZkcYVZkrmQpNXrN+T2IybaXzOzc+1Tr3PRYgF2o7lP9vOLXMUAnQynFxXiQdDlN144nvoX1cr1YjmiUNwRNilE=
+standorte.geers.de	TRUE	/	FALSE	1999999999	SameSite	None
+.addthis.com	TRUE	/	FALSE	1999999999	ouid	6245e6dd0001693b6077b03f6454ecc0fa3d9fb9b946f425c32e
+.addthis.com	TRUE	/	FALSE	1999999999	uid	6245e6dd64ff67fb
+.addthis.com	TRUE	/	FALSE	1999999999	na_id	2022033117373380200197193007
+cw.addthis.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.geers.de	TRUE	/	FALSE	1999999999	CMSPreferredCulture	de-DE
+
